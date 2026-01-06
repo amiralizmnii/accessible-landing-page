@@ -23,3 +23,9 @@ This project includes accessibility considerations such as:
 - CSS3
 
 ## Project Structure
+
+## Live Demo
+[See the live demo here]([https://amiralizmnii.github.io/ai-landing-page/)](https://amiralizmnii.github.io/accessible-landing-page/)
+
+## Author
+Amirali
